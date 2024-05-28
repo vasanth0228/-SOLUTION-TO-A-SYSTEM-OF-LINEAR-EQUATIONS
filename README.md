@@ -26,7 +26,7 @@ print('The solution for the given matrix is',le)
 ```
 
 ## Output:
-![WhatsApp Image 2024-05-28 at 1 36 48 PM](https://github.com/vasanth0228/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155505264/896d7c99-6891-4aef-a777-c6b22f5e955f)
+![Screenshot 2024-05-28 133525](https://github.com/vasanth0228/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155505264/9ebab86f-a754-4cd5-98be-ed7ce5e4e061)
 
 
 
